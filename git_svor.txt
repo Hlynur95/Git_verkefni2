@@ -24,3 +24,6 @@
 
 	4. 	Hvað er útgáfustýring (e.version control)?
 		records all changes to a file or aset of files over time
+
+	5.	Hverjir eru helstu kostir við að nota GIT?
+		if there are alot of people working on the same project you can see who did what and who made what changes and if needed you can go back if you made a mistake

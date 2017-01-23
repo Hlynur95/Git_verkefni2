@@ -1,2 +1,15 @@
 #Git spurningar og svör
-#profa
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = you use cd to change your directory
+	cd ~ = cd ~ takes you to your home directory
+	ls = ls shows all doccuments in the directory you are in
+	pwd = pwd prints the name of the current working directory
+	mkdir = mkdir creates a new directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = just copies your git
+	git log = shows the commit logs
+	git status = shows the working tree status
+	git diff = Show changes between commits, commit and working tree, etc
+	git checkout = Switch branches or restore working tree files

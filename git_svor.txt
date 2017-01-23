@@ -41,3 +41,6 @@
 
 	8.	Hvenær er sniðugt að nota greinar (branches)? 
 		when you know you are going to have to have alot of folders for something and to make it easier to find what you are looking for.
+
+	9.	Hver fann upp GIT?
+		 Linus Torvalds in 2005 for development of the Linux kernel

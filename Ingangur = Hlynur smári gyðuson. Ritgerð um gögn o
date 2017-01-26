@@ -7,3 +7,5 @@ gagnasafn = Gagnasafn er safn of gögnum sem er geimt a einum stað til að finn
 Gagnasafnskerfi = Gagnasafnskerfi er tölvu hugbúnaður umsökn þessi samskipti við notanda. Vel þekkt gangnasafn kerfi MySQL, PostgreSQL, MongoDB, MariaDB, Microsoft SQL Server, Oracle, Sybase, SAP HANA og IBM DB2. A gagnagrunnur er yfirleitt ekki flytjanlegur yfir mismunandi DBMSs, en mismunandi Gagnasafnskerfið geta interoperate með því að nota staðla svo sem SQL og ODBC eða JDBC að leyfa eitt forrit til að vinna með fleiri en einn Gagnasafnskerfið. Gagnasafn stjórnun kerfi eru oft flokkuð í samræmi við gagnagrunn líkan sem þeir styðja
 
 færsla = hvert sín sem þú gerir eithvað á netinu kemur færsla um það sem er basicly að segja hvað þú gerðir
+
+skrá = Skrár eru vanalega upplesingar um eitthvað serstakt eins og ég er með persönulegar skrár á landsbankanum eða islandsbanka um pesonulega uplesingar.
